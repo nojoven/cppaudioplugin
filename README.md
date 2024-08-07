@@ -1,2 +1,2 @@
-# gameloop
-Game loop from scratch using the C programming language and SDL
+# C ++ Audio Plugin
+[Building an Audio Plugin (w/ JUCE Framework)](https://www.youtube.com/watch?v=PaPN51Mm5qQ)
